@@ -317,4 +317,4 @@ Until the yellow light comes on, indicating that factory reset OK
 
 # Questions and Answers
 
-If you encounter any inconvenience in using our night light products, please refer to <a href="https://github.com/aibicn/aibigit/docs_3r/FAQ/FAQ_3R.md">FAQ</a> for help.
+If you encounter any inconvenience in using our night light products, please refer to <a href="https://github.com/aibicn/aibigit/blob/master/docs_3r/FAQ/FAQ_3R.md">FAQ</a> for help.
