@@ -1,41 +1,3 @@
-Table of Contents
-=================
-
-* [What is Matter?](#what-is-matter)
-* [Third Reality Matter Projects](#third-reality-matter-projects)
-* [Hardware Scheme](#hardware-scheme)
-* [Development Environment](#development-environment)
-   * [Recommended OS](#recommended-os)
-   * [Install Dependencies](#install-dependencies)
-   * [Download Code](#download-code)
-   * [Install Bouffalo Lab SDK](#install-bouffalo-lab-sdk)
-   * [Set Environment Variables](#set-environment-variables)
-   * [Compile BL602 ( main branch)](#compile-bl602--main-branch)
-   * [Compile BL706 ( main branch)](#compile-bl706--main-branch)
-   * [Compiled Results](#compiled-results)
-* [Burn Firmware](#burn-firmware)
-   * [Get Burning Tool](#get-burning-tool)
-   * [Burn BL602](#burn-bl602)
-   * [Burn BL706](#burn-bl706)
-   * [Firmware for Download](#firmware-for-download)
-* [Control the Night Light](#control-the-night-light)
-   * [Use iPhone and HomePod mini](#use-iphone-and-homepod-mini)
-      * [Prepare](#prepare)
-      * [Bind iPhone and HomePod](#bind-iphone-and-homepod)
-      * [Add a Night Light in Home](#add-a-night-light-in-home)
-      * [Reset Apple HomePod](#reset-apple-homepod)
-      * [Remove Accessories from Home](#remove-accessories-from-home)
-   * [Use Android Phone and Google Nest](#use-android-phone-and-google-nest)
-      * [Prepare](#prepare-1)
-      * [Set up Google Nest](#set-up-google-nest)
-      * [Add a Night Light in Home](#add-a-night-light-in-home-1)
-      * [Reset Google Nest](#reset-google-nest)
-   * [Use Android Phone and Echo V4](#use-android-phone-and-echo-v4)
-   * [Factory Reset Night Light](#factory-reset-night-light)
-* [Questions and Answers](#questions-and-answers)
-
-
-
 # What is Matter?
 
 Matter (formerly Project Connected Home over IP, or Project CHIP) is a new
@@ -355,4 +317,4 @@ Until the yellow light comes on, indicating that factory reset OK
 
 # Questions and Answers
 
-If you encounter some inconvenience when using our small night light, please refer to <a href="https://github.com/thirdreality/nightlight_mt/docs_3r/FAQ/FAQ_3R.md">FAQ</a>
+If you encounter any inconvenience in using our night light products, please refer to <a href="https://github.com/thirdreality/nightlight_mt/docs_3r/FAQ    /FAQ_3R.md">FAQ</a> for help.
