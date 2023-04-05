@@ -302,7 +302,7 @@ Matter-enabled Amazon Echo devices have built-in software to connect and control
 
 10. Enter the LIGHTS screen, you can control the lights added above, or voice control lights
 
-    (Currently, it is recommended to use alexa control BL602)
+    (Currently, it is recommended to use Alexa control BL602)
 
 
 ## Factory Reset Night Light
